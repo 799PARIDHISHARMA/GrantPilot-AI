@@ -1,0 +1,6 @@
+{
+  "name": "GrantPilot AI",
+  "description": "AI-powered Grant and Funding Finder for Startups using IBM Granite and RAG",
+  "runtime": "python",
+  "entrypoint": "app.py"
+}
